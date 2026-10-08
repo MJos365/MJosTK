@@ -185,5 +185,4 @@ function App() {
               </form>
             </div>
               <h3>Historique des Paiements</h3>
-          </div>
       </div>
