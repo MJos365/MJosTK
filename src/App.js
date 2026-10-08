@@ -183,5 +183,7 @@ function App() {
                 </select>
                 <button type="submit" style={{ padding: '8px 16px', backgroundColor: '#23a95d', color: 'white', border: 'none', borderRadius: '4px', cursor: 'pointer' }}>Valider le paiement</button>
               </form>
-
+            </div>
               <h3>Historique des Paiements</h3>
+          </div>
+      </div>
